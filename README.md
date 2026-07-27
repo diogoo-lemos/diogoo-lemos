@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **small machine learning projects**
 
-- 🌱 I’m currently learning **more about machine learning**
-
 - 📫 How to reach me **diogolemos7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
