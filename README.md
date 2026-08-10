@@ -1,5 +1,5 @@
 # Hi 👋, I'm Diogo
-## I love working on data science projects
+## I love working on data projects
 
 - 🔭 I’m currently working on **small machine learning projects**
 
